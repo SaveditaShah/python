@@ -56,3 +56,4 @@ row=cursor.fetchall()
 print("Name of students having age between 18 and 25 are:")
 for i in row:
     print(i[1])
+
